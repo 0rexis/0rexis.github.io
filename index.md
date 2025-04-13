@@ -10,7 +10,7 @@ I enjoy working on home lab projects, and CTFs to explore real-world attack and 
 I’ve attended many industry events to stay connected with the local cybersecurity community and expand my knowledge of current threats and innovations. I'm passionate about using technology to protect systems, reduce risk, and contribute to a safer digital environment.
 
 ## Projects
-- [Risk Assessment using LLM](./riskassessment-llm.html).
+- [Risk Assessment using LLM](./riskassessment_llm/riskassessment-llm.html).
 - [Process Management System](./dost-processmnagamentsystem.html).
 - [Information Security Management Report](./infosecmanagement-report.html).
 
