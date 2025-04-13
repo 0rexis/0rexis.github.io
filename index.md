@@ -1,46 +1,18 @@
 ---
 layout: default
 ---
-
-[Link to another page](./another-page.html).
-
 # About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hi! My name is Jovan, I'm an aspiring Cybersecurity Analyst currently based in Australia, with a strong interest in risk, governance, and hands-on technical learning. I’m currently studying cybersecurity at QUT while actively building my skills through platforms like TryHackMe and PentesterLab.
+
+I enjoy working on home lab projects, and CTFs to explore real-world attack and defence scenarios, and I'm planning to regularly share both my projects and learnings through GitHub, including blogs aimed at improving GRC implementation and keeping up with cybersecurity trends.
+
+I’ve attended many industry events to stay connected with the local cybersecurity community and expand my knowledge of current threats and innovations. I'm passionate about using technology to protect systems, reduce risk, and contribute to a safer digital environment.
 
 ## Projects
+- [Risk Assessment using LLM](./riskassessment-llm.html).
+- [Process Management System](./dost-processmnagamentsystem.html).
+- [Information Security Management Report](./infosecmanagement-report.html).
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Blogs
 
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
